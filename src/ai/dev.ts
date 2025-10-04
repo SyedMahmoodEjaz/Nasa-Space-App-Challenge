@@ -1,1 +1,5 @@
-// Flows will be imported for their side effects in this file.
+import { config } from 'dotenv';
+config();
+
+import '@/ai/flows/ai-search-for-features.ts';
+import '@/ai/flows/ai-discover-new-patterns.ts';
