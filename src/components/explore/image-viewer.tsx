@@ -98,8 +98,8 @@ export default function ImageViewer({ image, features, onAddFeature, overlays, v
     };
 
     const imageSize = {
-        width: parseInt(image.imageUrl.split('/')[4]),
-        height: parseInt(image.imageUrl.split('/')[5]),
+        width: image.width,
+        height: image.height,
     }
 
     return (

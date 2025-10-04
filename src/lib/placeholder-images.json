@@ -4,30 +4,40 @@
       "id": "andromeda",
       "description": "The Andromeda Galaxy",
       "imageUrl": "https://images.unsplash.com/photo-1504333638930-c8787321eee0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2FsYXh5JTIwc3RhcnN8ZW58MHx8fHwxNzU5NTgwMTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "width": 1080,
+      "height": 720,
       "imageHint": "galaxy stars"
     },
     {
       "id": "mars-dust-storm",
       "description": "Dust storm on Mars",
       "imageUrl": "https://images.unsplash.com/photo-1630839437035-dac17da580d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFycyUyMHBsYW5ldHxlbnwwfHx8fDE3NTk0OTUyODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "width": 1080,
+      "height": 1350,
       "imageHint": "mars planet"
     },
     {
       "id": "earth-from-space",
       "description": "Earth from space",
       "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlYXJ0aCUyMHNwYWNlfGVufDB8fHx8MTc1OTU3OTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "width": 1080,
+      "height": 720,
       "imageHint": "earth space"
     },
     {
       "id": "lunar-surface",
       "description": "The lunar surface",
       "imageUrl": "https://images.unsplash.com/photo-1552088641-9b36bf761ad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9vbiUyMHN1cmZhY2V8ZW58MHx8fHwxNzU5NTc3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "width": 1080,
+      "height": 720,
       "imageHint": "moon surface"
     },
     {
       "id": "pillars-of-creation",
       "description": "Pillars of Creation",
       "imageUrl": "https://images.unsplash.com/photo-1633434297500-5caa080302a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuZWJ1bGElMjBzdGFyc3xlbnwwfHx8fDE3NTk1NjAyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "width": 1080,
+      "height": 1350,
       "imageHint": "nebula stars"
     }
   ]
