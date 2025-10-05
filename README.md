@@ -1,5 +1,6 @@
-# Firebase Studio
+# Nasa Space App Challenge
 
-This is a NextJS starter in Firebase Studio.
+This file contains code and everything for NASA space app challange
 
-To get started, take a look at src/app/page.tsx.
+## Getting Started
+this code file has everything in it with an app interface to backend to database
