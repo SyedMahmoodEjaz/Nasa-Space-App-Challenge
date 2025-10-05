@@ -1,6 +1,6 @@
 # Nasa Space App Challenge
 
-decode the secrets of cosmos Interactive Exploration and Feature Discovery in NASA's Astronomical Imagery.
+Decode the secrets of cosmos: Interactive Exploration and Feature Discovery in NASA's Astronomical Imagery.
 
 🚀 Project Overview
 This project was developed for the NASA International Space Apps Challenge 2025 in response to a challenge likely focused on Data Visualization and Citizen Science.
